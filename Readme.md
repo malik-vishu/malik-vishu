@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vishwas Malik</h1>
-- 🔭 I’m currently working on Flutter **Amazon Prime Video Clone**
-
 - 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
